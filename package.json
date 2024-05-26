@@ -1,0 +1,16 @@
+{
+  "name": "multi-vendor-mern-stack-e-comers-website-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amalendu",
+  "license": "ISC",
+  "dependencies": {
+    "dot": "^1.1.3",
+    "mongoose": "^8.4.0",
+    "nodemon": "^3.1.1"
+  }
+}
