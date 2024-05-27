@@ -1,5 +1,6 @@
-import LoginPage from "./pages/LoginPage.jsx";
+import LoginPage from "./pages/LoginPage";
+import SignupPage from "../src/pages/SignupPage";
 
 export {
-    LoginPage,
+    LoginPage,SignupPage
 };
